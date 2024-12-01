@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SRUJANJANNU
-- 👀 I’m interested in full stack development
-- 🌱 I’m currently studying at University  ...
-- 💞️ Astronomy🌌, web Surfing..
+- 🌱 I’m currently Software Engineer at Accenture  ...
+- 🌌 Astronomy , web Surfing..
 - 📫 LinkedIn : https://www.linkedin.com/in/srujan-jannu-34497223a/
 - Twitter : https://twitter.com/SrujanJannu1
 <!---
